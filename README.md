@@ -1,6 +1,6 @@
 # Ola, sou o Davi Fernandes 👋👨‍💻
 
-Sou desenvolvedor Front-End e apaixonado por tecnologia. 
+Sou desenvolvedor Frontend e apaixonado por tecnologia. 
 
 ### ⚡ Habilidades
 <p align="center">
