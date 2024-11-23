@@ -3,6 +3,7 @@
 * 👋 Sou Davi Fernandes, um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências de usuário fluidas e responsivas.
 * 🚀 Atualmente, estou focado em aprender e aplicar as melhores práticas em tecnologias como HTML5, CSS3, JavaScript (incluindo React) e TypeScript. Adoro desafios e busco sempre otimizar o desempenho, acessibilidade e a estética das aplicações que desenvolvo.
 * 🌱 No momento, estou aprofundando meus conhecimentos em Next.js e Tailwind CSS para desenvolver aplicações mais escaláveis e eficientes.
+* 📫 Se você quiser conversar sobre front-end, design de interfaces ou novos desafios tecnológicos, fique à vontade para me mandar uma mensagem. Vamos conectar!
 
 ### ⚡ Linguagens e Ferramentas
 <p align="left">
