@@ -1,27 +1,54 @@
-### Olá, meu nome é Davi👋 
+👋 Olá! Eu sou o Davi Fernandes
 
-Sou um desenvolvedor Frontend/Full Stack com cerca de 1,5 anos de experiência no desenvolvimento de aplicações e páginas web.
+💻 Desenvolvedor Frontend / Full Stack com cerca de 1,5 anos de experiência criando aplicações web e mobile.
+Tenho foco em construir interfaces modernas, performáticas e bem estruturadas, além de experiência na integração com APIs e desenvolvimento de aplicações completas.
 
-Minhas Principais Habilidades
+🚀 Tecnologias & Ferramentas
 
-- React, React Native, NextJS, Node.js
+Frontend:
+React
+Next.js
+React Native
+TypeScript / JavaScript
 
-- Redux, Zustand, ContextAPI
+Gerenciamento de Estado:
+Redux
+Zustand
+Context API
 
-- TailwindCSS, sass, styled-components
+Estilização:
+TailwindCSS
+Sass
+Styled-components
 
-- Typescript, Javascript, Git & Github
+Backend & Infra:
+Node.js
+PostgreSQL
+Prisma ORM
+Docker
+CI/CD
 
-- PostgresSQL, PrismaORM, Docker, CI/CD
+Testes & Qualidade:
+Vitest
+Playwright
+Storybook
 
-- Vitest, Playwright, Storybook
+Design:
+Figma
+UI/UX
 
-- Figma, UI/UX
+📌 Sobre mim
 
-Tenho experiência tanto no desenvolvimento frontend quanto na integração com backend, participando da construção de aplicações completas.
+Tenho experiência tanto no desenvolvimento frontend quanto na integração com backend, participando da construção de aplicações completas, desde a interface até a comunicação com banco de dados e APIs.
 
-Se você busca um desenvolvedor frontend com conhecimentos em backend, me envie uma mensagem e vamos nos conectar!
-## 🌐 Conecte-se comigo
+Gosto de criar projetos que resolvem problemas reais e estou sempre buscando evoluir minhas habilidades em arquitetura, performance e boas práticas de desenvolvimento.
+
+🤝 Vamos nos conectar
+
+Se você procura um desenvolvedor Frontend com conhecimentos em backend, fique à vontade para entrar em contato.
+
+💼 Aberto a oportunidades e colaborações.
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-fernandes-05a737226/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandes.236/)
