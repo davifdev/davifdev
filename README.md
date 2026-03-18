@@ -6,35 +6,35 @@ Tenho foco em construir interfaces modernas, performáticas e bem estruturadas, 
 🚀 Tecnologias & Ferramentas
 
 Frontend:
-React
-Next.js
-React Native
+React,
+Next.js,
+React Native,
 TypeScript / JavaScript
 
 Gerenciamento de Estado:
-Redux
-Zustand
+Redux,
+Zustand,
 Context API
 
 Estilização:
-TailwindCSS
-Sass
+TailwindCSS,
+Sass,
 Styled-components
 
 Backend & Infra:
-Node.js
-PostgreSQL
-Prisma ORM
-Docker
+Node.js,
+PostgreSQL,
+Prisma ORM,
+Docker,
 CI/CD
 
 Testes & Qualidade:
-Vitest
-Playwright
-Storybook
+Vitest,
+Playwright,
+Storybook,
 
 Design:
-Figma
+Figma,
 UI/UX
 
 📌 Sobre mim
