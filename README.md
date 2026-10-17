@@ -1,11 +1,11 @@
 👋 Olá! Eu sou o Davi Fernandes
 
-💻 Desenvolvedor Full Stack com cerca de 1,5 anos de experiência criando aplicações web e mobile.
+💻 Desenvolvedor Full Stack com cerca de 2 anos de experiência criando aplicações web e mobile.
 
 Tenho foco em construir interfaces modernas, performáticas e bem estruturadas, além de experiência na integração com APIs e desenvolvimento de aplicações completas.
 
 📌 Sobre mim
-Tenho experiência tanto no desenvolvimento frontend quanto na integração com backend, participando da construção de aplicações completas, desde a interface até a comunicação com banco de dados e APIs.
+Tenho experiência tanto no desenvolvimento frontend quanto no backend, participando da construção de aplicações completas, desde a interface até a comunicação com banco de dados e APIs.
 
 Gosto de criar projetos que resolvem problemas reais e estou sempre buscando evoluir minhas habilidades em arquitetura, performance e boas práticas de desenvolvimento.
 
